@@ -16,6 +16,7 @@ public class Javax {
      */
     public static void main(String[] args) {
         System.out.println("Ini git");
+        System.out.println("oh gitu");
         // TODO code application logic here
     }
     
